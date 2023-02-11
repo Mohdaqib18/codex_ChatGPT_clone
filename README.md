@@ -1,5 +1,5 @@
 # codex_ChatGPT_clone
-A ChatGPT clone app which communicates with advanced GPT3 model API,  which enables it the ability to ask the AI for help regarding JavaScript, React, or any other programming language, giving it code and translating it to another programming language, and much more.
+A ChatGPT clone app which communicates with advanced GPT3 model API,  which enables it the ability to ask the AI for help regarding JavaScript, React, or any other programming language, giving it code and translating it to another programming language, and any other topic users wants to ask.
 
 
 
@@ -14,6 +14,9 @@ https://aqib-frontend-dev-chatgpt.netlify.app/
 # Screenshot of Codex App...
 ![codex](https://user-images.githubusercontent.com/37264147/218281225-e2c54178-fc6d-4b76-b360-14427bf97915.jpg)
 
+
+# Screenshot#2
+![codex2](https://user-images.githubusercontent.com/37264147/218281359-6ddbbea5-3dd9-41a9-842b-91561bdd2fbe.jpg)
 
 
 
